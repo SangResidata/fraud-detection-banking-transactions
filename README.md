@@ -1,7 +1,7 @@
 # fraud-detection-banking-transactions
 this dataset provides in-depth insights into transaction behavior and financial activity patterns, making it ideal for fraud detection exploration and anomaly identification.  
 
-This dataset contains 2,512 samples of transaction data, covering a wide range of transaction attributes, customer demographics, and activity patterns. Every entry provides comprehensive insights into transaction behavior, making it a robust foundation for building predictive models and enhancing financial security through anomaly detection.  
+This dataset contains 16 columns and 2,512 samples of transaction data, covering a wide range of transaction attributes, customer demographics, and activity patterns. Every entry provides comprehensive insights into transaction behavior, making it a robust foundation for building predictive models and enhancing financial security through anomaly detection.  
 
 Key Features:
 
