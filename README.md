@@ -17,7 +17,7 @@ Key Features:
 - **AccountBalance**: The remaining balance in the account after the transaction is processed.
 - **PreviousTransactionDate**: The date of the last transaction on the account; essential for calculating transaction frequency.
 - **Channel**: The medium used for the transaction (Online, ATM, or Branch).
-- **CustomerAge**: The age of the account holder.
+- **CustomerAge**: The age of the account owner.
 - **CustomerOccupation**: The profession of the user (e.g., Doctor, Engineer, Student, or Retired).
 - **TransactionDuration**: The total duration of the transaction in seconds.
 - **LoginAttempts**: The number of login attempts prior to the transaction—high counts may indicate potential security anomalies.
